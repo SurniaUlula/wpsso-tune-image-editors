@@ -10,7 +10,7 @@ Tags: image, sharpen, imagemagick, imagick, resize
 Contributors: jsmoriss
 Requires PHP: 7.0
 Requires At Least: 4.5
-Tested Up To: 5.6.2
+Tested Up To: 5.7
 Stable Tag: 2.7.1
 
 Improves the appearance of WordPress images for better click-through-rates from social and search sites.
