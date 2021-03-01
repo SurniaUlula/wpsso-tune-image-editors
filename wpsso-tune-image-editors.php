@@ -13,7 +13,7 @@
  * Description: Improves the appearance of WordPress images for better click-through-rates from social and search sites.
  * Requires PHP: 7.0
  * Requires At Least: 4.5
- * Tested Up To: 5.6.2
+ * Tested Up To: 5.7
  * Version: 2.7.1
  * 
  * Version Numbering: {major}.{minor}.{bugfix}[-{stage}.{level}]
